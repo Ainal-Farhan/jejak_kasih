@@ -1,1 +1,1 @@
-console.log('test commit');
+// This is Javascript test file
