@@ -1,3 +1,7 @@
+Daily Expense Record System
+
+Framework: Springboot
+
 System Requirements:
 
 1. Apache Maven 3.8.5
