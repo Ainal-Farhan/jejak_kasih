@@ -22,7 +22,7 @@ public class ExpenseController {
 
     @Autowired
     private UserRepository userRepo;
-  
+
     @PostMapping("/expenses/add")
     public String saveExpense(@RequestBody Expense expense){
         try {
