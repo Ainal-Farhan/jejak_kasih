@@ -1,9 +1,11 @@
 Daily Expense Record System
 
 <-------------------------------->
+
 Framework: Springboot
 
 <-------------------------------->
+
 System Requirements:
 
 1. Apache Maven 3.8.5
@@ -12,6 +14,7 @@ System Requirements:
 4. MongoDB
 
 <-------------------------------->
+
 Setup:
 
 MongoDB Configurations ->
@@ -20,11 +23,10 @@ MongoDB Configurations ->
 3. host: localhost
 4. Documents: Expense, User
 
-List of REST API requests:
-
-Import these files into Postman:
+Import these files into Postman (list of REST API Requests) ->
 1. /external reference/expense rest.postman_collection.json
 2. /external reference/user rest.postman_collection
 
 <-------------------------------->
+
 Run: mvn spring-boot:run
